@@ -8,6 +8,10 @@ function Header() {
             <a href='/contracts'>
                 Contracts
             </a>
+            {' '}
+            <a href='/extract'>
+              ExtractOre  
+            </a>
         </div>
     )
 }
